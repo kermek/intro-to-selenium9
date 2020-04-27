@@ -23,8 +23,8 @@ public class UserSteps {
         mainPage.clickLogin();
 
         loginPage = new LoginPage(driver);
-        loginPage.setUsername("иван@mail.com")
-                .setPassword("P@ssw0rd")
+        loginPage.setUsername(username)
+                .setPassword(password)
                 .clickLogin();
         return this;
     }
@@ -38,7 +38,7 @@ public class UserSteps {
 
 
     public UserSteps checkPrice(String expectedPrice) {
-        assertEquals(productPage.getPrice(), "33 999₴", "Price is wrong");
+        assertEquals(productPage.getPrice(), expectedPrice, "Price is wrong");
         return this;
     }
 

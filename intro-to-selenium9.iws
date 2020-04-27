@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be12e9fe-e548-4eb1-a49b-1f92f339ea07" name="Default Changelist" comment="" />
+    <list default="true" id="be12e9fe-e548-4eb1-a49b-1f92f339ea07" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/intro-to-selenium9.iws" beforeDir="false" afterPath="$PROJECT_DIR$/intro-to-selenium9.iws" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,6 +92,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
@@ -100,6 +105,7 @@
       <profile-state />
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -116,7 +122,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -270,10 +276,20 @@
       <option name="presentableId" value="Default" />
       <updated>1587652502680</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1587987765837</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587987765837</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -289,25 +305,33 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="998" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1587652526983" />
-    <state width="1636" height="280" key="GridCell.Tab.0.bottom" timestamp="1587987175223">
+    <state x="404" y="112" key="CommitChangelistDialog2" timestamp="1587987765474">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1636" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1587987175223" />
-    <state width="1636" height="280" key="GridCell.Tab.0.center" timestamp="1587987175222">
+    <state x="404" y="112" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1587987765474" />
+    <state width="1636" height="280" key="GridCell.Tab.0.bottom" timestamp="1587990298083">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1636" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1587987175222" />
-    <state width="1636" height="280" key="GridCell.Tab.0.left" timestamp="1587987175221">
+    <state width="1636" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1587990298083" />
+    <state width="1636" height="280" key="GridCell.Tab.0.center" timestamp="1587990298082">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1636" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1587987175221" />
-    <state width="1636" height="280" key="GridCell.Tab.0.right" timestamp="1587987175222">
+    <state width="1636" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1587990298082" />
+    <state width="1636" height="280" key="GridCell.Tab.0.left" timestamp="1587990298082">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1636" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1587987175222" />
-    <state x="341" y="175" key="SettingsEditor" timestamp="1587653400479">
+    <state width="1636" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1587990298082" />
+    <state width="1636" height="280" key="GridCell.Tab.0.right" timestamp="1587990298083">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1587653400479" />
+    <state width="1636" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1587990298083" />
+    <state x="341" y="175" key="SettingsEditor" timestamp="1587987793501">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1587987793501" />
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1587987783164">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1587987783164" />
   </component>
 </project>
